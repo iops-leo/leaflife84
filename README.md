@@ -1,6 +1,7 @@
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Harry&fontSize=80)
-
+### Who Am I 
+- Backend Engineer, Web Developer
+- I’m currently learning Restful api, MSA, Algorithm
+---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leaflife84&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dzzwe)](https://solved.ac/dzzwe)
 
