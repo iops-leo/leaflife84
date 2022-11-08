@@ -1,12 +1,9 @@
 ### Who Am I 
 - Backend Engineer, Web Developer
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leaflife84&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Solved.ac
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leaflife84&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+![](https://leetcard.jacoblin.cool/dzzwe) [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dzzwe)](https://solved.ac/dzzwe)
-
-![](https://leetcard.jacoblin.cool/dzzwe)
 
 ## 💪Stack
 
