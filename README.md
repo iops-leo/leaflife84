@@ -6,7 +6,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dzzwe)](https://solved.ac/dzzwe)
 
-![](https://leetcard.jacoblin.cool/dzzwe?ext=activity)
+![](https://leetcard.jacoblin.cool/dzzwe)
 
 ## 💪Stack
 
