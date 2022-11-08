@@ -1,6 +1,5 @@
 ### Who Am I 
 - Backend Engineer, Web Developer
-- I’m currently learning Restful api, MSA, Algorithm
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leaflife84&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
